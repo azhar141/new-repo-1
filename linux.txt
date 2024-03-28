@@ -78,6 +78,11 @@ systemctl status check-mk-agent.socket
 sudo systemclt reset -failed
 
 
+--------------------------------------------------------
+
+jargones of the life 
+
+
 
 
 
