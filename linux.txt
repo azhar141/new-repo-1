@@ -75,7 +75,7 @@ sudo journalctl -xe
 uptime
 
 systemctl status check-mk-agent.socket
-udo systemclt reset -failed
+sudo systemclt reset -failed
 
 
 
