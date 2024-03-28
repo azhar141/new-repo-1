@@ -81,7 +81,7 @@ sudo systemclt reset -failed
 --------------------------------------------------------
 
 jargones of the life 
-
+revert the code
 
 
 
